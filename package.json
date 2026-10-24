@@ -1,0 +1,19 @@
+{
+  "name": "dreamdex-perps-feedback",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "repro": "tsx scripts/repro/run-all.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@somnia-chain/markets-sdk": "^0.32.1",
+    "tsx": "^4.23.15",
+    "viem": "^2.57.11"
+  },
+  "type": "module"
+}

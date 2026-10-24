@@ -1,0 +1,9 @@
+[3.4s] #01 eligibility(bot) {"eligible":true,"grantAmount":"1000000000000000000000"}
+[4.3s] #01 claim reverted data 0x3e31dcc2 SelfClaimDisabled sel 0x3e31dcc2
+[6.5s] place {"sent":true,"hash":"0xc0e67967117293cb375190bb0fec197036e31da0fdc36106bc01745b39c2f9bf","status":"success","gasUsed":"1125654","orderId":"17505960125950373628580","fills":0}
+[6.7s] #02 reduce up InvalidQuantity(8100000000000000,8000000000000000)
+[8.3s] cancel {"ok":true,"hash":"0xd722943743fc41bdde93b7ea6f1464572ca570dfeb58499abbbbef23a3ff3277","status":"success","gasUsed":"176765"}
+[8.5s] #03 isOperatorAuthorized placeOrdersFor false
+[8.8s] #03 isOperatorAuthorized placeOrderFor true
+[9.0s] #03 placeOrdersFor sim [[true],["17505960125950373628581"]]
+[9.3s] open orders left []

@@ -1,0 +1,6 @@
+[0.8s] trader perp methods placePerpOrder,buildPlacePerpOrder,setPerpLeverage,proposePerpWalletLink,acceptPerpWalletLink,cancelPerpWalletLinkProposal,unlinkPerpWallet,repayPerpMainFunding,recallPerpMainFunding,claimPerpVoucher,placePerpStopOrder,linkPerpStopOrders,cancelPerpStopOrder,cancelPerpStopOrders,claimPerpStopSomi,buildPlacePerpStopOrder,buildCancelPerpStopOrder,buildCancelPerpStopOrders,buildAcceptPerpWalletLink,buildRepayPerpMainFunding,buildClaimPerpVoucher
+[2.7s] FAIL claimPerpVoucher ContractRevertError @somnia-chain/markets-sdk: claim reverted: for an unknown reason.
+[3.1s] OK   voucher after {"claimed":false,"floor":"0","expiresAt":"0"}
+[3.8s] OK   eligibility after {"eligible":true,"grantAmount":"1000000000000000000000"}
+[4.3s] OK   margin after {"unlockedCollateralBalance":"0","lockedCollateral":"0","activePerpPools":[],"equity":"0","withdrawable":"0","imReq":"0","mmReq":"0","cmReq":"0","marginStatus":"Healthy","asOfBlock":"32185281"}
+[5.2s] FAIL claim again ContractRevertError @somnia-chain/markets-sdk: claim reverted: for an unknown reason.

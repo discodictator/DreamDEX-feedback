@@ -1,0 +1,16 @@
+[2.3s] LINK pre-first sim gas "1600000" false
+[2.5s] LINK pre-first sim gas "3200000" true
+[4.2s] LINK 1st order gasUsed "1708743" 0x498e2d7a5cded9987948d3096686e227e9a6278d729146a4b566a7d3d6ae3102
+[5.7s] LINK 2nd order same level gasUsed "464025"
+[7.1s] LINK 3rd order new level gasUsed "1532397"
+[8.5s] LINK cancel "134897"
+[9.9s] LINK cancel "382447"
+[11.4s] LINK cancel "238606"
+[11.9s] AVAX pre-first sim gas "1600000" false
+[12.1s] AVAX pre-first sim gas "3200000" true
+[13.5s] AVAX 1st order gasUsed "1708112" 0xc9c0b5cfb586eb11a984a2e647d1873608eac7ef39c8720ca97ca3f0cc5bb760
+[15.0s] AVAX 2nd order same level gasUsed "463928"
+[16.4s] AVAX 3rd order new level gasUsed "1530889"
+[17.9s] AVAX cancel "134897"
+[19.3s] AVAX cancel "382447"
+[20.7s] AVAX cancel "183009"

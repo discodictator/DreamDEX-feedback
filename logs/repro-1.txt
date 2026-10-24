@@ -1,0 +1,12 @@
+[3.4s] C03 eligibility(bot) {"eligible":true,"grantAmount":"1000000000000000000000"}
+[4.5s] C03 claim reverted data 0x3e31dcc2 SelfClaimDisabled sel 0x3e31dcc2
+[5.5s] C04 sim gas 3.2M {"ok":true,"result":[true,"73786976294847309114"]} gas 3.6M {"ok":true,"result":[true,"73786976294847309114"]}
+[6.0s] C07 orderType 7 {"ok":false,"error":"raw 0x"} orderType 4 {"ok":false,"error":"raw 0x"}
+[7.7s] place {"sent":true,"hash":"0x51c55c2f04839d428693b52827579963fc910d68033331b1cd8e684baed2d4fa","status":"success","gasUsed":"527918","orderId":"73786976294847309114","fills":0}
+[8.0s] C06 reduce up InvalidQuantity(8100000000000000,8000000000000000)
+[9.5s] cancel {"ok":true,"hash":"0xfcc7679cd8f43c7aaec1f647d011ebc3cac556537ae04a9b1a538834914c93c0","status":"success","gasUsed":"176765"}
+[9.7s] C05 cancel again {"ok":false,"error":"IncorrectSender(0x6BabCfF65546BA363791450865936CA1d56e3F37,0x0000000000000000000000000000000000000000)"}
+[10.0s] C08 isOperatorAuthorized placeOrdersFor false
+[10.2s] C08 isOperatorAuthorized placeOrderFor true
+[10.5s] C08 placeOrdersFor sim [[true],["73786976294847309118"]]
+[10.7s] open orders left []

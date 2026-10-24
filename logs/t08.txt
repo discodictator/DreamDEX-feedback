@@ -1,0 +1,16 @@
+[3.1s] margin before {"unlocked":"1000000000000000000000","locked":"0"}
+[5.3s] place {"sent":true,"hash":"0xca735ea10336c92d1d505deb61f4a96836f3eea355ef1b2a0a235ec6dc8d49d6","status":"success","gasUsed":"2311787","orderId":"16251581528938124075843","fills":0}
+[5.5s] onchain order {"orderId":"16251581528938124075843","isBid":true,"owner":"0x6BabCfF65546BA363791450865936CA1d56e3F37","userData":"0","price":"1632870000000000000000","fullQuantity":"8000000000000000","quantityRemaining":"8000000000000000","expireTimestampNs":"3369671440000000000"}
+[5.7s] own open onchain ["16251581528938124075843"]
+[6.2s] margin after place {"unlocked":"999346852000000000000","locked":"653148000000000000"}
+[7.0s] indexer open orders after +0ms total=1 match=1 {"id":"0xd6cb1dd58580b84d76068ac21594219ce03aeddf_16251581528938124075843","orderId":"16251581528938124075843","market":"0xd6cb1dd58580b84d76068ac21594219ce03aeddf","marketInfo":{"marketAddress":null,"asset":null,"question":null,"expiry":null,"tradingStart":null,"quoteDecimals":18,"intervalSec":null,"interval":null},"pool":"0xd6cb1dd58580b84d76068ac21594219ce03aeddf","side":null,"isBid":true,"pric
+[7.2s] reduce sim to same qty OK
+[7.5s] reduce sim to larger InvalidQuantity(8100000000000000,8000000000000000)
+[7.7s] reduce sim to 0 QuantityBelowMinimum(0,4000000000000000)
+[8.0s] reduce sim to below min QuantityBelowMinimum(3900000000000000,4000000000000000)
+[8.2s] reduce sim off-lot InvalidQuantity(4000000000000001,100000000000000)
+[8.4s] reduce sim to minQ OK
+[9.9s] cancel {"ok":true,"hash":"0x6121428aa2df575413489919a77fda199bcf2fa959128f8a8ce109d4b2a2793d","status":"success","gasUsed":"176765"}
+[10.1s] cancel again (sim) {"ok":false,"error":"IncorrectSender(0x6BabCfF65546BA363791450865936CA1d56e3F37,0x0000000000000000000000000000000000000000)"}
+[10.4s] cancel random id (sim) {"ok":false,"error":"IncorrectSender(0x6BabCfF65546BA363791450865936CA1d56e3F37,0x0000000000000000000000000000000000000000)"}
+[10.9s] margin end {"unlocked":"1000000000000000000000","locked":"0"}
