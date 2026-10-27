@@ -21,6 +21,6 @@ Re-verified 2026-10-27 with a second linked bot (0xd777…9a23): a real 8e15 res
 
 ## Environment
 SDK @somnia-chain/markets-sdk 0.32.1, viem 2.57.11, Node 22.23.4, macOS.
-Network: Somnia Hideki testnet (DreamDEX region), chain 50383, RPC https://api.hideki2.infra.testnet.somnia.network.
+Network: Somnia Tokyo testnet (Hideki), chain 50383, RPC https://api.hideki2.infra.testnet.somnia.network.
 Bot (operator) key: 0x424587Af5a6102aA8469554a71A97d6d0331BcB5, linked via Link a Bot to account 0x6BabCfF65546BA363791450865936CA1d56e3F37.
 Tested 2026-10-24.

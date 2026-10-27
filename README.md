@@ -1,6 +1,6 @@
 # dreamDEX Perps Builder Bounty: feedback track
 
-Findings from testing the dreamDEX Perps API, SDK (`@somnia-chain/markets-sdk` 0.32.1), contracts and docs on the Somnia Hideki testnet (chain 50383).
+Findings from testing the dreamDEX Perps API, SDK (`@somnia-chain/markets-sdk` 0.32.1), contracts and docs on the Somnia Tokyo testnet (Hideki, chain 50383).
 
 Each issue is in its own file in [`feedback/`](feedback). Every item was reproduced at least twice before filing. Issues we also found but another participant had already published are left out.
 
