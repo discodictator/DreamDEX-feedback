@@ -1,4 +1,5 @@
 // Reproduces every filed issue. Read-only except one resting order (placed far from the book, then cancelled).
+// #05 and #06 need no key: scripts/repro/readonly.ts (npm run repro:read).
 import { spawnSync } from "node:child_process"
 import { run, j } from "../lib.js"
 import { send, cancel, pub, ABI, OWNER, account, farNs, errName } from "../op.js"
